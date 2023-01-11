@@ -1,12 +1,17 @@
+# cc-genpro (Old version)
+# Date: 04/05/2018
+# Telegram: https://t.me/RealHackRWAM
 
-<h1 align='center'>💳 CC-GENPRO 💳 </h1>
+<p>INSTALACION SHELL<p>
 
-<b>Generador de tarjetas usando el algoritmo de Luhn. Tercera version para paginas web. Versiones anteriores se crearon en lenguaje python. </b>
+<li>git clone https://github.com/HackeRStrategy/cc-genpro.git </li>
+<li>bash cc-genpro.sh </li>
+
+<p>INSTALACION GIT <p>
+
+<li>git clone https://github.com/RealStrategy/cc-genpro </li>
+<li>cd cc-genpro </li>
+<li>python2 cc-genpro.py </li>
 
 ***
-
-DEMO - [Open Here](https://realstrategy.github.io/CC-GENPRO/)
-![alt text](https://raw.githubusercontent.com/RealStrategy/realstrategy.github.io/main/CC-GENPROV1/ccgenpro.png)
----
-
-<h4 align='center'> © 2023 @RealStrategy <h4>
+DEMO WEB - [Open Here](https://realstrategy.github.io/CC-GENPRO/)
