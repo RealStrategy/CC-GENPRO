@@ -8,7 +8,8 @@
 <li>bash cc-genpro.sh </li>
 
 <p>INSTALACION GIT <p>
-
+  
+ 
 <li>git clone https://github.com/RealStrategy/cc-genpro </li>
 <li>cd cc-genpro </li>
 <li>python2 cc-genpro.py </li>
