@@ -15,4 +15,4 @@
 <li>python2 cc-genpro.py </li>
 
 ***
-DEMO WEB - [Open Here](https://realstrategy.github.io/CC-GENPRO/)
+DEMO WEB - [Open Here](https://cc-genpro.com)
