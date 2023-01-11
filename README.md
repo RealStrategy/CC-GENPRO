@@ -7,7 +7,6 @@
 <li>git clone https://github.com/HackeRStrategy/cc-genpro.git </li>
 <li>bash cc-genpro.sh </li>
   
-  
 <p>INSTALACION GIT <p>
   
  
